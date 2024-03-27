@@ -1,7 +1,9 @@
 <img align="right" src="python.jpg" width="1000"/>   ...
 
+<h1>📌PROGRAMAÇÃO ORIENTADA A OBJETOS</h1>
+Matéria relativa ao curso de Ciências da Computação 1°/2024 (2º semestre do curso) da Gran Faculdade. Aqui constaram os códigos das aulas e o projeto final da matéria.
 
-##  CONTEÚDO PROGRAMÁTICO 
+##  CONTEÚDO PROGRAMÁTICO DA MATÉRIA
 
 ### TÍT. UNIDADE 1: Linguagem Python 
 
@@ -117,8 +119,11 @@ Complementar:
    
 11. ALVES, William P. Linguagem e Lógica de Programação. Editora Saraiva, 2013. E-book. ISBN 9788536519371 
 
-### Repositório destinado às entregas dos desafios de projeto da formação.
 
+
+_____________________________________________Refazer depois______________________________________________________
+
+### Repositório destinado às entregas dos desafios de projeto da formação.
 
 <div align="center">
   <p>
@@ -127,4 +132,4 @@ Complementar:
       <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-dotnet-developer"/>
       <img src="https://img.shields.io/github/issues/alexklenio/DIO-dotnet-developer"/>
   </p> 
-</div>
+</div> 
